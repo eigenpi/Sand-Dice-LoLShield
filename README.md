@@ -44,6 +44,7 @@ https://www.amazon.com/gp/product/B07C6XC3MP/ref=ppx_yo_dt_b_search_asin_title?i
 ## Software
 
 --Arduiono IDE
+
 --Libraries needed:
 1) LoLShield v82.zip - Downloaded from here: 
 https://code.google.com/archive/p/lolshield/downloads
