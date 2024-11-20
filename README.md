@@ -56,5 +56,6 @@ Installed through the Library Manager of the Arduino IDE.
 
 The source code is adapted from that of Chuck Swiger.
 His code is here: https://github.com/cswiger/LED_sand
+
 Inspired also by a project from Adafruit:
 https://learn.adafruit.com/animated-led-sand?embeds=allow
