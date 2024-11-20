@@ -26,14 +26,18 @@ If you wanted to replicate this project, these are the main components.
 
 --Arduino Uno board; you can get any, but this is one example:
 https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU
+
 --LoL Shield
 https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-SMT/open-source-hardware
 But, you can use one of those that you need to solder yourself; just search for
 LoL Shield on Ebay and you will find many offerings.
+
 --MPU6050 IMU
 https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ?th=1
+
 --Prototype PCB for Arduino Uno
 https://www.amazon.com/dp/B01J1KM3RM?ref=ppx_yo2ov_dt_b_fed_asin_title (used one only of the pack)
+
 --Battery holder
 https://www.amazon.com/gp/product/B07C6XC3MP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
